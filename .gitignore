@@ -1,0 +1,29 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Marimo runtime session state
+__marimo__/
+*.marimo
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large binaries / zip archives
+*.zip
+*.tar.gz
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
