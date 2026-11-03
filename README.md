@@ -132,6 +132,6 @@ marimo edit notebook.py
 ---
 
 ## 👨‍💻 Author & Acknowledgements
-- **Author:** Yonathan T. ([YonInsights](https://github.com/YonInsights))
+- **Author:** Yonatan A. ([YonInsights](https://github.com/YonInsights))
 - **Program:** ALX Africa — Data Science Career Track
 - **Scenario:** Maji Ndogo Agricultural Survey Audit
